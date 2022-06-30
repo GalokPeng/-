@@ -1,4 +1,4 @@
-# yiqingfenxi
+# 中国全国疫情数据爬取、疫情数据分析、疫情数据可视化
 中国全国疫情分析可视化
 基于python 
 jupyter notebook
